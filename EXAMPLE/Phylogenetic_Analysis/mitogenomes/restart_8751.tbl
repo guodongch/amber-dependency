@@ -1,0 +1,487 @@
+>Feature 8751A
+1	6301	gene
+			gene	rnl
+1	687	rRNA
+938	3950
+5697	6301
+			gene	rnl
+			product	large subunit ribosomal RNA
+1	687	exon
+			number	1
+938	3950	exon
+			number	2
+5696	6301	exon
+			number	3
+688	937	intron
+			number	1
+			note	group=IC1
+3951	5696	intron
+			number	2
+			note	group=IA
+1166	1384	gene
+			gene	orf72
+1166	1384	CDS
+			gene	orf72
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	GIY
+4197	5582	gene
+			gene	orf461
+4197	5582	CDS
+			gene	orf461
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+6487	6557	gene
+			gene	trnT-TGT
+6487	6557	tRNA
+			gene	trnT-TGT
+			product	tRNA-Thr
+6985	7057	gene
+			gene	trnE-TTC
+6985	7057	tRNA
+			gene	trnE-TTC
+			product	tRNA-Glu
+7059	7129	gene
+			gene	trnM-CAT
+			note	copy 1
+7059	7129	tRNA
+			gene	trnM-CAT
+			product	tRNA-Met
+7762	7935	gene
+			gene	orf57
+7762	7935	CDS
+			gene	orf57
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+8289	8361	gene
+			gene	trnM-CAT
+			note	copy 2
+8289	8361	tRNA
+			gene	trnM-CAT
+			product	tRNA-Met
+8365	8446	gene
+			gene	trnL-TAA
+8365	8446	tRNA
+			gene	trnL-TAA
+			product	tRNA-Leu
+8450	8521	gene
+			gene	trnA-TGC
+8450	8521	tRNA
+			gene	trnA-TGC
+			product	tRNA-Ala
+8523	8595	gene
+			gene	trnF-GAA
+8523	8595	tRNA
+			gene	trnF-GAA
+			product	tRNA-Phe
+8608	8680	gene
+			gene	trnK-TTT
+8608	8680	tRNA
+			gene	trnK-TTT
+			product	tRNA-Lys
+8682	8765	gene
+			gene	trnL-TAG
+8682	8765	tRNA
+			gene	trnL-TAG
+			product	tRNA-Leu
+8769	8841	gene
+			gene	trnQ-TTG
+8769	8841	tRNA
+			gene	trnQ-TTG
+			product	tRNA-Gln
+8884	8957	gene
+			gene	trnH-GTG
+8884	8957	tRNA
+			gene	trnH-GTG
+			product	tRNA-His
+9007	9078	gene
+			gene	trnM-CAT
+			note	copy 3
+9007	9078	tRNA
+			gene	trnM-CAT
+			product	tRNA-Met
+9086	10789	gene
+			gene	nad2
+9086	10789	CDS
+			gene	nad2
+			product	NADH dehydrogenase subunit 2
+			codon_start	1
+			transl_table	4
+10789	11208	gene
+			gene	nad3
+10789	11208	CDS
+			gene	nad3
+			product	NADH dehydrogenase subunit 3
+			codon_start	1
+			transl_table	4
+11460	11684	gene
+			gene	atp9
+11460	11684	CDS
+			gene	atp9
+			product	ATP synthase F0 subunit c
+			codon_start	1
+			transl_table	4
+12029	12874	gene
+			gene	orf281
+12029	12874	CDS
+			gene	orf281
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	GIY
+13250	14071	gene
+			gene	orf273
+13250	14071	CDS
+			gene	orf273
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+11801	14826	gene
+			gene	cox2
+11801	12028	CDS
+13121	13249
+14434	14826
+			gene	cox2
+			product	cytochrome c oxidase subunit 2
+			codon_start	1
+			transl_table	4
+11801	12028	exon
+			number	1
+13121	13249	exon
+			number	2
+14434	14826	exon
+			number	3
+12029	13120	intron
+			number	1
+			note	Group IB
+13250	14433	intron
+			number	2
+			note	Group ID
+14935	15005	gene
+			gene	trnR-ACG
+14935	15005	tRNA
+			gene	trnR-ACG
+			product	tRNA-Arg
+15042	15311	gene
+			gene	nad4L
+15042	15311	CDS
+			gene	nad4L
+			product	NADH dehydrogenase subunit 4L
+			codon_start	1
+			transl_table	4
+17056	17958	gene
+			gene	orf300
+17056	17958	CDS
+			gene	orf300
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+15311	19321	gene
+			gene	nad5
+15311	15727	CDS
+16756	17055
+18056	19321
+			gene	nad5
+			product	NADH dehydrogenase subunit 5
+			codon_start	1
+			transl_table	4
+15311	15727	exon
+			number	1
+16756	17055	exon
+			number	2
+18056	19321	exon
+			number	3
+15728	16755	intron
+			number	1
+			note	Group IB
+17056	18055	intron
+			number	2
+			note	Group IB
+19963	20862	gene
+			gene	orf299
+19963	20862	CDS
+			gene	orf299
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	GIY
+21298	22179	gene
+			gene	orf293
+21298	22179	CDS
+			gene	orf293
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+19570	23174	gene
+			gene	cob
+19570	19962	CDS
+21199	21295
+22489	23174
+			gene	cob
+			product	apocytochrome b
+			codon_start	1
+			transl_table	4
+19570	19962	exon
+			number	1
+21199	21295	exon
+			number	2
+22489	23174	exon
+			number	3
+19963	21198	intron
+			number	1
+			note	Group ID
+21296	22488	intron
+			number	2
+			note	Group IA
+23243	23314	gene
+			gene	trnC-GCA
+23243	23314	tRNA
+			gene	trnC-GCA
+			product	tRNA-Cys
+23841	24899	gene
+			gene	orf352
+23841	24899	CDS
+			gene	orf352
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+27737	28687	gene
+			gene	orf316
+27737	28687	CDS
+			gene	orf316
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+29170	30201	gene
+			gene	orf343
+29170	30201	CDS
+			gene	orf343
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+23526	30738	gene
+			gene	cox1
+23526	23839	CDS
+26111	26201
+27377	27735
+28779	29168
+30252	30738
+			gene	cox1
+			product	cytochrome c oxidase subunit 1
+			codon_start	1
+			transl_table	4
+23526	23839	exon
+			number	1
+26111	26201	exon
+			number	2
+27377	27735	exon
+			number	3
+28779	29168	exon
+			number	4
+30252	30738	exon
+			number	5
+23840	26110	intron
+			number	1
+			note	Group IB
+26202	27376	intron
+			number	2
+			note	Group IB
+27736	28778	intron
+			number	3
+			note	Group IB
+29169	30251	intron
+			number	4
+			note	Group IB
+30842	31906	gene
+			gene	orf354
+30842	31906	CDS
+			gene	orf354
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+31929	31999	gene
+			gene	trnR-TCT
+31929	31999	tRNA
+			gene	trnR-TCT
+			product	tRNA-Arg
+32482	35912	gene
+			gene	nad1
+32482	32619	CDS
+33863	34354
+35439	35912
+			gene	nad1
+			product	NADH dehydrogenase subunit 1
+			codon_start	1
+			transl_table	4
+32482	32619	exon
+			number	1
+33863	34354	exon
+			number	2
+35439	35912	exon
+			number	3
+32620	33862	intron
+			number	1
+			note	Group IC1
+34355	35438	intron
+			number	2
+			note	Group IB
+36074	36238	gene
+			gene	orf54
+36074	36238	CDS
+			gene	orf54
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	GIY
+37818	39092	gene
+			gene	orf424
+37818	39092	CDS
+			gene	orf424
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+39431	40402	gene
+			gene	orf323
+39431	40402	CDS
+			gene	orf323
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+37320	41238	gene
+			gene	nad4
+37320	37815	CDS
+39201	39430
+40516	41238
+			gene	nad4
+			product	NADH dehydrogenase subunit 4
+			codon_start	1
+			transl_table	4
+37320	37815	exon
+			number	1
+39201	39430	exon
+			number	2
+40516	41238	exon
+			number	3
+37816	39200	intron
+			number	1
+			note	Group IC2
+39431	40515	intron
+			number	2
+			note	Group IB
+41310	41456	gene
+			gene	atp8
+41310	41456	CDS
+			gene	atp8
+			product	ATP synthase F0 subunit 8
+			codon_start	1
+			transl_table	4
+41924	42970	gene
+			gene	orf348
+41924	42970	CDS
+			gene	orf348
+			product	hypothetical protein
+			codon_start	1
+			transl_table	4
+			note	LAGLIDADG
+41567	43688	gene
+			gene	atp6
+41567	41922	CDS
+43253	43688
+			gene	atp6
+			product	ATP synthase F0 subunit a
+			codon_start	1
+			transl_table	4
+41567	41922	exon
+			number	1
+43253	43688	exon
+			number	2
+41923	43252	intron
+			number	1
+			note	Group IB
+44164	45743	gene
+			gene	rns
+44164	45743	rRNA
+			gene	rns
+			product	small subunit ribosomal RNA
+45782	45867	gene
+			gene	trnY-GTA
+45782	45867	tRNA
+			gene	trnY-GTA
+			product	tRNA-Tyr
+45871	45943	gene
+			gene	trnD-GTC
+45871	45943	tRNA
+			gene	trnD-GTC
+			product	tRNA-Asp
+45993	46073	gene
+			gene	trnS-GCT
+45993	46073	tRNA
+			gene	trnS-GCT
+			product	tRNA-Ser
+46079	46149	gene
+			gene	trnN-GTT
+46079	46149	tRNA
+			gene	trnN-GTT
+			product	tRNA-Asn
+46212	48243	gene
+			gene	cox3
+46212	46842	CDS
+48065	48243
+			gene	cox3
+			product	cytochrome c oxidase subunit 3
+			codon_start	1
+			transl_table	4
+46212	46842	exon
+			number	1
+48065	48243	exon
+			number	2
+46843	48064	intron
+			number	1
+			note	Group I(derived)
+48289	48359	gene
+			gene	trnG-TCC
+48289	48359	tRNA
+			gene	trnG-TCC
+			product	tRNA-Gly
+48413	49051	gene
+			gene	nad6
+48413	49051	CDS
+			gene	nad6
+			product	NADH dehydrogenase subunit 6
+			codon_start	1
+			transl_table	4
+49449	49521	gene
+			gene	trnV-TAC
+49449	49521	tRNA
+			gene	trnV-TAC
+			product	tRNA-Val
+49526	49597	gene
+			gene	trnI-GAT
+49526	49597	tRNA
+			gene	trnI-GAT
+			product	tRNA-Ile
+49635	49719	gene
+			gene	trnS-TGA
+49635	49719	tRNA
+			gene	trnS-TGA
+			product	tRNA-Ser
+49721	49792	gene
+			gene	trnW-TCA
+49721	49792	tRNA
+			gene	trnW-TCA
+			product	tRNA-Trp
+49808	49879	gene
+			gene	trnP-TGG
+49808	49879	tRNA
+			gene	trnP-TGG
+			product	tRNA-Pro
